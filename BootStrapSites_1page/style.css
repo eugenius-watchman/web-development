@@ -1,0 +1,26 @@
+.section {
+	min-height: 500px;
+	overflow: hidden;
+	position: relative;
+	padding: 90px 10px 0px;
+	background-size: cover
+
+}
+.section:nth-child(even){
+	background-color:#ccc;
+	}
+#home{
+  background: url(https://via.placeholder.com/1200x800/FF0000/FFFFFF/?text=Image+1) no-repeat center center fixed;
+
+}
+#home > div {
+	background-color: rgba(255,255,0,0.5);
+	border-radius: 10px;
+}
+
+#contactUs {
+	background-color: white;
+	border-radius: 10px;
+	padding: 20px;
+	border-color: solid black 1px;
+}
