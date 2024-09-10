@@ -1,0 +1,156 @@
+html,body{
+			border:0;
+			background-color: rgb(230,240,240);
+			font-family: "myriad pro";
+			color: rgb(50,50,50);
+			background-attachment: fixed;
+			}
+			
+header{
+			background-color: rgb(59,89,152);
+			width: 100%;
+			height: 80px;
+			}
+		
+.logo{
+			float: left;
+			margin-top: 15px;
+			font-weight: bold;
+			}
+			
+nav{
+/*float:left;*/
+	}
+	
+.input{
+		margin-top: 7px;
+		float:left;
+		margin-left: 45%;
+		}
+		
+.input1{
+		width:100%;
+		padding:22px 14px;
+		margin:9px 0;
+		border-radius: 5px;
+		border:1px solid #ccc;
+		height: 40px;
+		font-size: 20px;
+		}
+		
+#email_or_phone{
+		margin-right: 10px;
+		width:180px;
+		height: 25px;
+		
+	}	
+	
+#password{
+		width: 180px;
+		height: 25px;
+		}
+	
+h1{	
+		font-size: 42px;
+		color:white;
+		margin-top:2%;
+		float:left;
+		margin-left:100%
+		}
+		
+label{
+		color:white;
+		font-size:4px;
+		}	
+		
+#login_btn{
+		background-color: rgb(59,109,170);
+		border:2px;
+		border-color:black;
+		color:white;
+		width:52px;
+		height:22px;
+		}
+		
+#forget_account{
+ 		color:rgba(169,179,255,0.9);
+ 		font-size:2;
+ 		}
+ 		
+ #recent_info{
+ 		float:left;
+ 		color:rgb(50,50,50);
+  		}
+  		
+ #recent_header{
+ 		font-family: "arial";
+ 		font-size:40px;
+ 		font-weight: bold;
+ 		font-family: ;
+ 		}
+ 		
+ .gap{
+ 		padding-top:25px;
+ 		padding-bottom: 5px;
+ 		}
+ 		
+ #recent_header1{
+ 		font-size: 23px;
+ 		}
+ 		
+#body_section{
+		}
+		
+#line{
+		background-color: rgb(220,220,220);
+		border:0;
+		height: 1px;
+		}
+		
+#recent_body{
+		width:180px;
+		height:220px;
+		border-radius:2px,2px,2px,2px;
+		background-color: white;
+		border-radius: 5px;
+		text-decoration: none;
+		text-align: center;
+		}
+		
+#recent_img{
+		background-color: #dcdcdc;
+		width:180px;
+		height: 180px;
+		border-radius:5px 5px 0 0;
+		color:black;
+		}
+		
+#sign_up_info{
+		float:left;
+		width: 455px;
+		margin-left: 23%;
+		}
+		
+.sign_up_header{
+		font-size:40px;
+		font-weight:bold;
+		}
+		
+.sign_up_header1{
+		font-size: 23px;
+		}
+		
+.sign_up_btn{
+		padding:10px 50px;
+		border:5px;
+		border-color:rgb(80,150,80);
+		color:white;
+		font-weight: bold;
+		background-color: rgb(50,150,50);
+		border-radius:5px;
+		font-size:15px;
+		}
+		
+.sign_up_btn :after{
+
+}
